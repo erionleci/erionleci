@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @erionleci
+- 👋 Hi, I’m Erion
 - 👀 I’m in highschool
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate with different people and companies
